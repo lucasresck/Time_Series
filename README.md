@@ -4,7 +4,7 @@ Assignment codes for [Time Series](https://emap.fgv.br/sites/emap.fgv.br/files/u
 
 In this repository, we study several topics included in Time Series subject,
 such as ARIMA models, trend and seasonality. Each homework has a pratical study and
-some theorical questions. Alternative projects to the beggining of the course (Covid-19 deaths analysis and homework 1)
+some theoretical questions. Alternative projects to the beggining of the course (Covid-19 deaths analysis and homework 1)
 can be found in [this repository](https://github.com/lucasresck/time-series).
 
 The homeworks and assigments are coded in R language and the presentations and
